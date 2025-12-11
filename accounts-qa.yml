@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to eazybanks account related APIs in qa"
+  contactDetails:
+    name: "John Doe - QA Lead"
+    email: "john@gmail.com"
+  onCallSupport:
+    - +91 7411037889
+    - +91 7411037998

@@ -1,0 +1,11 @@
+build:
+  version: "41"
+
+cards:
+  message: "Welcome to eazybanks cards related qa apis"
+  contactDetails:
+    name: "Mathew Heyden - QA Lead"
+    email: "mathew@gmail.com"
+  onCallSupport:
+    - 1919191919
+    - 2929292929

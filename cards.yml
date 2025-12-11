@@ -1,0 +1,11 @@
+build:
+  version: "51"
+
+cards:
+  message: "Welcome to accounts related apis"
+  contactDetails:
+    name: "Vivian Richards"
+    email: "richards@gmail.com"
+  onCallSupport:
+    - 4545454545
+    - 5555555555

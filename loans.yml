@@ -1,0 +1,11 @@
+build:
+  version: "37"
+
+loans:
+  message: "Welcome to eazybanks loans related apis"
+  contactDetails:
+    name: "VVS Laxman"
+    email: "laxman@gmail.com"
+  onCallSupport:
+    - 8431136666
+    - 8433137777

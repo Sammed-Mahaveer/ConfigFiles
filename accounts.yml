@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to eazybanks account related APIs"
+  contactDetails:
+      name: "Sammed Hulikoppe - Develope"
+      email: "sammed@gmail.com"
+  onCallSupport:
+    - +91 7411037888
+    - +91 7411037999
+

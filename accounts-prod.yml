@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to eazybanks account related APIs in prod"
+  contactDetails:
+    name: "Virat - Product owner"
+    email: "product@gmail.com"
+  onCallSupport:
+    - +91 7411037887
+    - +91 7411037997

@@ -1,0 +1,11 @@
+build:
+  version: "31"
+
+loans:
+  message: "Welcome to eazybank loans related qa apis"
+  contactDetails:
+    name: "Rohit Sharma"
+    email: "rohit@gmail.com"
+  onCallSupport:
+    - 9945271188
+    - 9945271199

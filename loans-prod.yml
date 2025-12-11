@@ -1,0 +1,11 @@
+build:
+  version: "32"
+
+loans:
+  message: "Welcome to loans related prod apis"
+  contactDetails:
+    name: "Rahul Dravid"
+    email: "rahul@gmail.com"
+  onCallSupport:
+    - 8277222777
+    - 8277222888
