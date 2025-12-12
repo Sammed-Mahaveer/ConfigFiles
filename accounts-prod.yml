@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to eazybanks account related APIs in prod"
+  message: "Welcome to eazybanks account related APIs in Production"
   contactDetails:
     name: "Virat - Product owner"
     email: "product@gmail.com"
