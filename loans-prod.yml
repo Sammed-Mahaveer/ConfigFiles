@@ -2,7 +2,7 @@ build:
   version: "32"
 
 loans:
-  message: "Welcome to loans related prod apis"
+  message: "Welcome to loans related Production apis"
   contactDetails:
     name: "Rahul Dravid"
     email: "rahul@gmail.com"
